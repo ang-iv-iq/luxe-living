@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hero-shot {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.hero-shot h1 {
+  color: #e5e5e5;
+  margin: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  /* padding-top: 25%; */
+
+
+}
+
+.hero-shot button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  border-color: transparent;
+  margin: 15px 0;
+  color: #e5e5e5;
+  border: 1px solid white;
+}
+
+.hero-shot button:hover {
+  border-color: transparent;
+}

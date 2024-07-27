@@ -1,0 +1,17 @@
+<svg width="154" height="154" viewBox="0 0 154 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_129_153" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="154" height="154">
+<path d="M153.655 0H0V153.71H153.655V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_129_153)">
+<path d="M96.0343 110.479V139.3C96.0343 141.848 95.0224 144.292 93.2217 146.093C91.4206 147.895 88.9781 148.907 86.431 148.907H67.2241C64.6771 148.907 62.2345 147.895 60.4334 146.093C58.6323 144.292 57.6204 141.848 57.6204 139.3V110.479" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.6204 129.693H96.0343" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76.8274 4.80341V14.4103" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.60352 72.0518H19.2069" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.0086 24.0172L31.0511 30.8061" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M144.051 72.0518H134.448" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M129.647 24.0172L122.604 30.8061" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.6204 68.8495C60.1674 68.8495 62.6104 69.8617 64.4111 71.6631C66.2122 73.4648 67.2241 75.9083 67.2241 78.4562V110.479" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M86.431 110.479V78.4562C86.431 75.9083 87.4425 73.4648 89.2436 71.6631C91.0447 69.8617 93.4873 68.8495 96.0343 68.8495" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.1087 110.479H96.5464C103.686 106.942 109.681 101.457 113.838 94.6574C117.996 87.858 120.147 80.0217 120.043 72.0518C119.845 60.6479 115.229 49.7661 107.167 41.7013C99.105 33.6363 88.2272 29.0182 76.8274 28.8207C65.4279 29.0182 54.5501 33.6363 46.4882 41.7013C38.426 49.7661 33.8096 60.6479 33.6122 72.0518C33.5086 80.0217 35.6597 87.858 39.8171 94.6574C43.9746 101.457 49.969 106.942 57.1087 110.479Z" stroke="#FCA311" stroke-width="8.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

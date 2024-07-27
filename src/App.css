@@ -13,15 +13,36 @@
   }
 }
 
+.App-logo-iq {
+  width: 100px;
+  height: auto;
+}
+
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #e5e5e5;
   display: flex;
-  flex-direction: column;
+  padding: 10px 20px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  font-size: 16px;
+  color: #14213d;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #14213d;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
 }
 
 .App-link {
@@ -32,6 +53,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
