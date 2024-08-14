@@ -18,14 +18,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo-iq" alt="logo" />
         <Navbar />
-        {/* <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a> */}
+
         <MyButton color={"orange"} appearance={"primary"} label={"Login"} />
       </header>
     </div>
